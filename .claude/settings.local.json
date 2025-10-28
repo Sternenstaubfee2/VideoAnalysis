@@ -1,0 +1,13 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(dir \"%USERPROFILE%\\Downloads\\Spin_and_Go.mp4\")",
+      "Bash(python database_handler.py:*)",
+      "Bash(python check_setup.py:*)",
+      "Bash(python test_video_extract.py:*)",
+      "Bash(dir:*)"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}
