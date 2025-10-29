@@ -1,0 +1,11 @@
+# Additional requirements for live capture mode
+
+# Screen capture
+mss>=9.0.0
+pyautogui>=0.9.54
+
+# Window detection and management
+pywin32>=306
+
+# Optional: For advanced features
+keyboard>=0.13.5  # Hotkey support

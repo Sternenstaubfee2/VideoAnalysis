@@ -1,0 +1,665 @@
+================================================================================
+POKER VIDEO ANALYSIS REPORT
+================================================================================
+Generated: 2025-10-28 23:22:01
+Video: C:\Users\Julia\Downloads\Spin_and_Go.mp4
+Total Hands Analyzed: 36
+
+--------------------------------------------------------------------------------
+PLAYER STATISTICS
+--------------------------------------------------------------------------------
+
+Player: a
+  Country: Unknown
+  Hands Played: 14
+  Total Win/Loss: $8.00
+  Recent Hands:
+    Hand #34: BREAK_EVEN ($+0.00)
+    Hand #33: BREAK_EVEN ($+0.00)
+    Hand #32: BREAK_EVEN ($+0.00)
+    Hand #30: WIN ($+1.00)
+    Hand #29: BREAK_EVEN ($+0.00)
+
+Player: ii
+  Country: Unknown
+  Hands Played: 13
+  Total Win/Loss: $1.00
+  Recent Hands:
+    Hand #26: BREAK_EVEN ($+0.00)
+    Hand #23: BREAK_EVEN ($+0.00)
+    Hand #21: WIN ($+1.00)
+    Hand #20: BREAK_EVEN ($+0.00)
+    Hand #16: BREAK_EVEN ($+0.00)
+
+Player: S 15758
+  Country: Unknown
+  Hands Played: 5
+  Total Win/Loss: $20.00
+  Recent Hands:
+    Hand #20: BREAK_EVEN ($+0.00)
+    Hand #18: BREAK_EVEN ($+0.00)
+    Hand #17: BREAK_EVEN ($+0.00)
+    Hand #16: LOSS ($-5.00)
+    Hand #15: WIN ($+25.00)
+
+Player: aN
+  Country: Unknown
+  Hands Played: 4
+  Total Win/Loss: $0.00
+  Recent Hands:
+    Hand #35: BREAK_EVEN ($+0.00)
+    Hand #17: BREAK_EVEN ($+0.00)
+    Hand #8: BREAK_EVEN ($+0.00)
+    Hand #6: BREAK_EVEN ($+0.00)
+
+Player: MN
+  Country: Unknown
+  Hands Played: 3
+  Total Win/Loss: $0.00
+  Recent Hands:
+    Hand #31: BREAK_EVEN ($+0.00)
+    Hand #24: BREAK_EVEN ($+0.00)
+    Hand #16: BREAK_EVEN ($+0.00)
+
+Player: ee
+  Country: Unknown
+  Hands Played: 2
+  Total Win/Loss: $0.00
+  Recent Hands:
+    Hand #2: BREAK_EVEN ($+0.00)
+    Hand #1: BREAK_EVEN ($+0.00)
+
+Player: ON
+  Country: Unknown
+  Hands Played: 2
+  Total Win/Loss: $0.00
+  Recent Hands:
+    Hand #15: BREAK_EVEN ($+0.00)
+    Hand #3: BREAK_EVEN ($+0.00)
+
+Player: r56n
+  Country: Unknown
+  Hands Played: 2
+  Total Win/Loss: $0.00
+  Recent Hands:
+    Hand #10: BREAK_EVEN ($+0.00)
+    Hand #8: BREAK_EVEN ($+0.00)
+
+Player: NG
+  Country: Unknown
+  Hands Played: 2
+  Total Win/Loss: $0.00
+  Recent Hands:
+    Hand #27: BREAK_EVEN ($+0.00)
+    Hand #11: BREAK_EVEN ($+0.00)
+
+Player: a Ne
+  Country: Unknown
+  Hands Played: 2
+  Total Win/Loss: $0.00
+  Recent Hands:
+    Hand #22: BREAK_EVEN ($+0.00)
+    Hand #13: BREAK_EVEN ($+0.00)
+
+Player: S 12758
+  Country: Unknown
+  Hands Played: 2
+  Total Win/Loss: $-5.00
+  Recent Hands:
+    Hand #23: LOSS ($-5.00)
+    Hand #22: BREAK_EVEN ($+0.00)
+
+Player: 18 65e8
+  Country: Unknown
+  Hands Played: 2
+  Total Win/Loss: $0.00
+  Recent Hands:
+    Hand #30: BREAK_EVEN ($+0.00)
+    Hand #28: BREAK_EVEN ($+0.00)
+
+Player: mA OS
+  Country: Unknown
+  Hands Played: 2
+  Total Win/Loss: $0.00
+  Recent Hands:
+    Hand #29: BREAK_EVEN ($+0.00)
+    Hand #28: BREAK_EVEN ($+0.00)
+
+Player: at
+  Country: Unknown
+  Hands Played: 2
+  Total Win/Loss: $0.00
+  Recent Hands:
+    Hand #33: BREAK_EVEN ($+0.00)
+    Hand #32: BREAK_EVEN ($+0.00)
+
+Player: S ssee
+  Country: Unknown
+  Hands Played: 2
+  Total Win/Loss: $-7.00
+  Recent Hands:
+    Hand #34: BREAK_EVEN ($+0.00)
+    Hand #33: LOSS ($-7.00)
+
+Player: TestPlayer1
+  Country: USA
+  Hands Played: 1
+  Total Win/Loss: $10.00
+  Recent Hands:
+    Hand #1: WIN ($+10.00)
+
+Player: _
+  Country: Unknown
+  Hands Played: 1
+  Total Win/Loss: $0.00
+  Recent Hands:
+    Hand #2: BREAK_EVEN ($+0.00)
+
+Player: SH 56n
+  Country: Unknown
+  Hands Played: 1
+  Total Win/Loss: $0.00
+  Recent Hands:
+    Hand #3: BREAK_EVEN ($+0.00)
+
+Player: 1 56
+  Country: Unknown
+  Hands Played: 1
+  Total Win/Loss: $0.00
+  Recent Hands:
+    Hand #4: BREAK_EVEN ($+0.00)
+
+Player: a ON
+  Country: Unknown
+  Hands Played: 1
+  Total Win/Loss: $0.00
+  Recent Hands:
+    Hand #4: BREAK_EVEN ($+0.00)
+
+Player: ee a
+  Country: Unknown
+  Hands Played: 1
+  Total Win/Loss: $0.00
+  Recent Hands:
+    Hand #5: BREAK_EVEN ($+0.00)
+
+Player: Bn
+  Country: Unknown
+  Hands Played: 1
+  Total Win/Loss: $0.00
+  Recent Hands:
+    Hand #5: BREAK_EVEN ($+0.00)
+
+Player: Sl oen Ff
+  Country: Unknown
+  Hands Played: 1
+  Total Win/Loss: $0.00
+  Recent Hands:
+    Hand #6: BREAK_EVEN ($+0.00)
+
+Player: 1S 585
+  Country: Unknown
+  Hands Played: 1
+  Total Win/Loss: $0.00
+  Recent Hands:
+    Hand #7: BREAK_EVEN ($+0.00)
+
+Player: WN
+  Country: Unknown
+  Hands Played: 1
+  Total Win/Loss: $0.00
+  Recent Hands:
+    Hand #7: BREAK_EVEN ($+0.00)
+
+Player: 1 r56R
+  Country: Unknown
+  Hands Played: 1
+  Total Win/Loss: $0.00
+  Recent Hands:
+    Hand #9: BREAK_EVEN ($+0.00)
+
+Player: A 42
+  Country: Unknown
+  Hands Played: 1
+  Total Win/Loss: $0.00
+  Recent Hands:
+    Hand #9: BREAK_EVEN ($+0.00)
+
+Player: 1S ranB
+  Country: Unknown
+  Hands Played: 1
+  Total Win/Loss: $0.00
+  Recent Hands:
+    Hand #11: BREAK_EVEN ($+0.00)
+
+Player: 1S rnp
+  Country: Unknown
+  Hands Played: 1
+  Total Win/Loss: $0.00
+  Recent Hands:
+    Hand #12: BREAK_EVEN ($+0.00)
+
+Player: 1S HB
+  Country: Unknown
+  Hands Played: 1
+  Total Win/Loss: $0.00
+  Recent Hands:
+    Hand #13: BREAK_EVEN ($+0.00)
+
+Player: S 5H
+  Country: Unknown
+  Hands Played: 1
+  Total Win/Loss: $0.00
+  Recent Hands:
+    Hand #14: BREAK_EVEN ($+0.00)
+
+Player: SH 15758
+  Country: Unknown
+  Hands Played: 1
+  Total Win/Loss: $0.00
+  Recent Hands:
+    Hand #19: BREAK_EVEN ($+0.00)
+
+Player: S 14758
+  Country: Unknown
+  Hands Played: 1
+  Total Win/Loss: $0.00
+  Recent Hands:
+    Hand #21: BREAK_EVEN ($+0.00)
+
+Player: S i1275R
+  Country: Unknown
+  Hands Played: 1
+  Total Win/Loss: $0.00
+  Recent Hands:
+    Hand #24: BREAK_EVEN ($+0.00)
+
+Player: S o76n
+  Country: Unknown
+  Hands Played: 1
+  Total Win/Loss: $-181.00
+  Recent Hands:
+    Hand #25: LOSS ($-181.00)
+
+Player: a NG
+  Country: Unknown
+  Hands Played: 1
+  Total Win/Loss: $0.00
+  Recent Hands:
+    Hand #25: BREAK_EVEN ($+0.00)
+
+Player: SH e750
+  Country: Unknown
+  Hands Played: 1
+  Total Win/Loss: $0.00
+  Recent Hands:
+    Hand #26: BREAK_EVEN ($+0.00)
+
+Player: S ose
+  Country: Unknown
+  Hands Played: 1
+  Total Win/Loss: $0.00
+  Recent Hands:
+    Hand #27: BREAK_EVEN ($+0.00)
+
+Player: 1 6558
+  Country: Unknown
+  Hands Played: 1
+  Total Win/Loss: $0.00
+  Recent Hands:
+    Hand #29: BREAK_EVEN ($+0.00)
+
+Player: SH ssa
+  Country: Unknown
+  Hands Played: 1
+  Total Win/Loss: $0.00
+  Recent Hands:
+    Hand #31: BREAK_EVEN ($+0.00)
+
+Player: ss5ee
+  Country: Unknown
+  Hands Played: 1
+  Total Win/Loss: $0.00
+  Recent Hands:
+    Hand #32: BREAK_EVEN ($+0.00)
+
+Player: S ssp
+  Country: Unknown
+  Hands Played: 1
+  Total Win/Loss: $0.00
+  Recent Hands:
+    Hand #35: BREAK_EVEN ($+0.00)
+
+Player: tii
+  Country: Unknown
+  Hands Played: 1
+  Total Win/Loss: $0.00
+  Recent Hands:
+    Hand #35: BREAK_EVEN ($+0.00)
+
+Player: eee
+  Country: Unknown
+  Hands Played: 1
+  Total Win/Loss: $0.00
+  Recent Hands:
+    Hand #36: BREAK_EVEN ($+0.00)
+
+Player: VANS
+  Country: Unknown
+  Hands Played: 1
+  Total Win/Loss: $0.00
+  Recent Hands:
+    Hand #36: BREAK_EVEN ($+0.00)
+
+Player: TestPlayer2
+  Country: Germany
+  Hands Played: 0
+  Total Win/Loss: $0.00
+
+--------------------------------------------------------------------------------
+HAND-BY-HAND BREAKDOWN
+--------------------------------------------------------------------------------
+
+Hand #1
+  Blinds: $0.00/$0.00
+  Pot: $6.00
+  Winner: None
+  Players:
+    a: $8.00 → $8.00 (BREAK_EVEN)
+    ee: $0.00 → $0.00 (BREAK_EVEN)
+
+Hand #2
+  Blinds: $0.00/$0.00
+  Pot: $6.00
+  Winner: None
+  Players:
+    _: $8.00 → $8.00 (BREAK_EVEN)
+    ee: $0.00 → $0.00 (BREAK_EVEN)
+
+Hand #3
+  Blinds: $0.00/$0.00
+  Pot: $5.00
+  Winner: None
+  Players:
+    SH 56n: $0.00 → $0.00 (BREAK_EVEN)
+    ON: $1.00 → $1.00 (BREAK_EVEN)
+    ii: $0.00 → $0.00 (BREAK_EVEN)
+
+Hand #4
+  Blinds: $0.00/$0.00
+  Pot: $0.00
+  Winner: None
+  Players:
+    1 56: $0.00 → $0.00 (BREAK_EVEN)
+    a ON: $1.00 → $1.00 (BREAK_EVEN)
+    ii: $0.00 → $0.00 (BREAK_EVEN)
+
+Hand #5
+  Blinds: $0.00/$0.00
+  Pot: $0.00
+  Winner: None
+  Players:
+    ee a: $0.00 → $0.00 (BREAK_EVEN)
+    Bn: $0.00 → $0.00 (BREAK_EVEN)
+
+Hand #6
+  Blinds: $0.00/$0.00
+  Pot: $0.00
+  Winner: None
+  Players:
+    Sl oen Ff: $0.00 → $0.00 (BREAK_EVEN)
+    aN: $1.00 → $1.00 (BREAK_EVEN)
+    ii: $0.00 → $0.00 (BREAK_EVEN)
+
+Hand #7
+  Blinds: $0.00/$0.00
+  Pot: $0.00
+  Winner: None
+  Players:
+    1S 585: $0.00 → $0.00 (BREAK_EVEN)
+    WN: $1.00 → $1.00 (BREAK_EVEN)
+
+Hand #8
+  Blinds: $0.00/$0.00
+  Pot: $1.00
+  Winner: None
+  Players:
+    r56n: $0.00 → $0.00 (BREAK_EVEN)
+    aN: $1.00 → $1.00 (BREAK_EVEN)
+    ii: $0.00 → $0.00 (BREAK_EVEN)
+
+Hand #9
+  Blinds: $0.00/$0.00
+  Pot: $0.00
+  Winner: None
+  Players:
+    1 r56R: $0.00 → $0.00 (BREAK_EVEN)
+    A 42: $0.00 → $0.00 (BREAK_EVEN)
+    ii: $0.00 → $0.00 (BREAK_EVEN)
+
+Hand #10
+  Blinds: $0.00/$0.00
+  Pot: $0.00
+  Winner: None
+  Players:
+    r56n: $0.00 → $0.00 (BREAK_EVEN)
+    ii: $0.00 → $0.00 (BREAK_EVEN)
+
+Hand #11
+  Blinds: $0.00/$0.00
+  Pot: $0.00
+  Winner: None
+  Players:
+    1S ranB: $0.00 → $0.00 (BREAK_EVEN)
+    NG: $0.00 → $0.00 (BREAK_EVEN)
+
+Hand #12
+  Blinds: $0.00/$0.00
+  Pot: $7.00
+  Winner: None
+  Players:
+    1S rnp: $0.00 → $0.00 (BREAK_EVEN)
+    a: $0.00 → $0.00 (BREAK_EVEN)
+    ii: $0.00 → $0.00 (BREAK_EVEN)
+
+Hand #13
+  Blinds: $0.00/$0.00
+  Pot: $0.00
+  Winner: None
+  Players:
+    1S HB: $0.00 → $0.00 (BREAK_EVEN)
+    a Ne: $0.00 → $0.00 (BREAK_EVEN)
+
+Hand #14
+  Blinds: $0.00/$0.00
+  Pot: $0.00
+  Winner: None
+  Players:
+    S 5H: $0.00 → $0.00 (BREAK_EVEN)
+    a: $0.00 → $0.00 (BREAK_EVEN)
+    ii: $0.00 → $0.00 (BREAK_EVEN)
+
+Hand #15
+  Blinds: $0.00/$0.00
+  Pot: $0.00
+  Winner: S 15758
+  Players:
+    S 15758: $0.00 → $25.00 (WIN)
+    ON: $0.00 → $0.00 (BREAK_EVEN)
+
+Hand #16
+  Blinds: $0.00/$0.00
+  Pot: $0.00
+  Winner: None
+  Players:
+    S 15758: $25.00 → $20.00 (LOSS)
+    MN: $0.00 → $0.00 (BREAK_EVEN)
+    ii: $0.00 → $0.00 (BREAK_EVEN)
+
+Hand #17
+  Blinds: $0.00/$0.00
+  Pot: $0.00
+  Winner: None
+  Players:
+    S 15758: $20.00 → $20.00 (BREAK_EVEN)
+    aN: $0.00 → $0.00 (BREAK_EVEN)
+
+Hand #18
+  Blinds: $0.00/$0.00
+  Pot: $7.00
+  Winner: None
+  Players:
+    S 15758: $0.00 → $0.00 (BREAK_EVEN)
+
+Hand #19
+  Blinds: $0.00/$0.00
+  Pot: $8.00
+  Winner: None
+  Players:
+    SH 15758: $0.00 → $0.00 (BREAK_EVEN)
+    a: $1.00 → $0.00 (LOSS)
+
+Hand #20
+  Blinds: $0.00/$0.00
+  Pot: $0.00
+  Winner: None
+  Players:
+    S 15758: $1.00 → $1.00 (BREAK_EVEN)
+    a: $0.00 → $0.00 (BREAK_EVEN)
+    ii: $0.00 → $0.00 (BREAK_EVEN)
+
+Hand #21
+  Blinds: $0.00/$0.00
+  Pot: $0.00
+  Winner: a
+  Players:
+    S 14758: $14.00 → $14.00 (BREAK_EVEN)
+    a: $0.00 → $7.00 (WIN)
+    ii: $0.00 → $1.00 (WIN)
+
+Hand #22
+  Blinds: $0.00/$0.00
+  Pot: $0.00
+  Winner: None
+  Players:
+    S 12758: $12.00 → $12.00 (BREAK_EVEN)
+    a Ne: $0.00 → $0.00 (BREAK_EVEN)
+
+Hand #23
+  Blinds: $0.00/$0.00
+  Pot: $7.00
+  Winner: a
+  Players:
+    S 12758: $12.00 → $7.00 (LOSS)
+    a: $0.00 → $1.00 (WIN)
+    ii: $0.00 → $0.00 (BREAK_EVEN)
+
+Hand #24
+  Blinds: $0.00/$0.00
+  Pot: $0.00
+  Winner: None
+  Players:
+    S i1275R: $7.00 → $7.00 (BREAK_EVEN)
+    MN: $0.00 → $0.00 (BREAK_EVEN)
+
+Hand #25
+  Blinds: $0.00/$0.00
+  Pot: $0.00
+  Winner: None
+  Players:
+    S o76n: $201.00 → $20.00 (LOSS)
+    a NG: $0.00 → $0.00 (BREAK_EVEN)
+
+Hand #26
+  Blinds: $0.00/$0.00
+  Pot: $0.00
+  Winner: None
+  Players:
+    SH e750: $720.00 → $720.00 (BREAK_EVEN)
+    a: $0.00 → $0.00 (BREAK_EVEN)
+    ii: $0.00 → $0.00 (BREAK_EVEN)
+
+Hand #27
+  Blinds: $0.00/$0.00
+  Pot: $0.00
+  Winner: None
+  Players:
+    S ose: $0.00 → $0.00 (BREAK_EVEN)
+    NG: $0.00 → $0.00 (BREAK_EVEN)
+
+Hand #28
+  Blinds: $0.00/$0.00
+  Pot: $5.00
+  Winner: None
+  Players:
+    18 65e8: $0.00 → $0.00 (BREAK_EVEN)
+    a: $0.00 → $0.00 (BREAK_EVEN)
+    mA OS: $0.00 → $0.00 (BREAK_EVEN)
+
+Hand #29
+  Blinds: $0.00/$0.00
+  Pot: $0.00
+  Winner: None
+  Players:
+    1 6558: $0.00 → $0.00 (BREAK_EVEN)
+    a: $0.00 → $0.00 (BREAK_EVEN)
+    mA OS: $0.00 → $0.00 (BREAK_EVEN)
+
+Hand #30
+  Blinds: $0.00/$0.00
+  Pot: $0.00
+  Winner: a
+  Players:
+    18 65e8: $0.00 → $0.00 (BREAK_EVEN)
+    a: $0.00 → $1.00 (WIN)
+
+Hand #31
+  Blinds: $0.00/$0.00
+  Pot: $0.00
+  Winner: None
+  Players:
+    SH ssa: $23.00 → $23.00 (BREAK_EVEN)
+    MN: $0.00 → $0.00 (BREAK_EVEN)
+
+Hand #32
+  Blinds: $0.00/$0.00
+  Pot: $5.00
+  Winner: None
+  Players:
+    ss5ee: $7.00 → $7.00 (BREAK_EVEN)
+    a: $0.00 → $0.00 (BREAK_EVEN)
+    at: $0.00 → $0.00 (BREAK_EVEN)
+
+Hand #33
+  Blinds: $0.00/$0.00
+  Pot: $5.00
+  Winner: None
+  Players:
+    S ssee: $7.00 → $0.00 (LOSS)
+    a: $0.00 → $0.00 (BREAK_EVEN)
+    at: $0.00 → $0.00 (BREAK_EVEN)
+
+Hand #34
+  Blinds: $0.00/$0.00
+  Pot: $7.00
+  Winner: None
+  Players:
+    S ssee: $0.00 → $0.00 (BREAK_EVEN)
+    a: $0.00 → $0.00 (BREAK_EVEN)
+
+Hand #35
+  Blinds: $0.00/$0.00
+  Pot: $0.00
+  Winner: None
+  Players:
+    S ssp: $23.00 → $23.00 (BREAK_EVEN)
+    aN: $0.00 → $0.00 (BREAK_EVEN)
+    tii: $0.00 → $0.00 (BREAK_EVEN)
+
+Hand #36
+  Blinds: $0.00/$0.00
+  Pot: $50.00
+  Winner: None
+  Players:
+    eee: $0.00 → $0.00 (BREAK_EVEN)
+    VANS: $0.00 → $0.00 (BREAK_EVEN)

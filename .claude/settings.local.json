@@ -5,7 +5,9 @@
       "Bash(python database_handler.py:*)",
       "Bash(python check_setup.py:*)",
       "Bash(python test_video_extract.py:*)",
-      "Bash(dir:*)"
+      "Bash(dir:*)",
+      "Bash(pip install:*)",
+      "Bash(python:*)"
     ],
     "deny": [],
     "ask": []
